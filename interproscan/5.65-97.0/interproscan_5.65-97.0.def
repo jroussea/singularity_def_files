@@ -21,3 +21,7 @@ From: ubuntu:20.04
 
 %environment
 	export PATH=/opt/interproscan:$PATH
+
+%labels
+	Maintener Jérémy Rousseau, MNHN - Paris
+	Version 1.0
