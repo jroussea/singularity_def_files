@@ -1,5 +1,5 @@
-# singularity_containers
+# Singularity definition files
 
-Ce git propose des commandes et/ou des fichiers pour construire des containers singularity.
-Certains contaienrs son construit à partir d'image docker.
-les docker file peuvent être retrouvé ici : 
+Singularity definition files used to build containers for different tools used in bioinformatics.
+
+It is necessary to install [Singularity](https://sylabs.io/docs/)
